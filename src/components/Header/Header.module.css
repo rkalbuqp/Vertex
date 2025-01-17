@@ -1,0 +1,7 @@
+.HeaderContainer {
+  background-color: brown;
+  padding: 2px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}

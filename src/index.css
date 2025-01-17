@@ -1,0 +1,15 @@
+:root {
+  --primary-color: #19a4ea;
+  --primary-color-dark: #2051cc;
+  --background-color: #f0f0f0;
+  --text-color: #333;
+  --button-color: #19a4ea;
+  --button-hover-color: #2051cc;
+  --header-bg-color: inherit;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
