@@ -1,0 +1,9 @@
+.VertexButton {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.LogoTipe {
+  opacity: 0.4;
+}
