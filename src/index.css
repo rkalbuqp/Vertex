@@ -8,8 +8,12 @@
   --header-bg-color: inherit;
 }
 
-body,
-html {
-  margin: 0;
+body {
   padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: var(--text-color);
+  background: url("./assets/Images/image.png") no-repeat;
+  width: 100%;
+  background-size: 90%;
 }
